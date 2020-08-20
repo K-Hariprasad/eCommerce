@@ -1,0 +1,30 @@
+[
+    {
+		"productId": 1,
+		"Brand": "YK",
+		"productCode": "KB-1",
+		"description": "Boys White & Blue Solid Shirt & Shorts With Suspenders & Bow Tie",
+		"price": 999,
+        "imageUrl1": "../images/k1.jpg",
+		"imageUrl2": "../images/han-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "H&M",
+		"productCode": "KB-2",
+		"description": "Boys Blue & Grey 3-Piece Cotton Set",
+		"price": 1299,
+        "imageUrl1": "../images/k2.jpg",
+		"imageUrl2": "../images/indo-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "Pepe Jeans",
+		"productCode": "KB-3",
+		"description": "Boys Blue and Red Regular Fit Printed Casual Shirt",
+		"price": 1199,
+        "imageUrl1": "../images/k3.jpg",
+		"imageUrl2": "../images/Janasya-big.jpg"
+	}
+
+]

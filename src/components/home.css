@@ -1,0 +1,56 @@
+.category .carousel-control-next{
+    background-color: black!important;
+    width: 30px;
+    height:30px;
+    margin-top: 14%;
+    
+}
+.category{
+    padding: 2%;
+}
+.cat-title{
+    padding: 2%;
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px;
+    max-height: 5em;
+    font-weight: 500;
+}
+.category .carousel-control-prev{
+    background-color: black!important;
+    width: 30px;
+    height:30px;
+    margin-top: 14%;
+    
+}
+.card-sec{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.carousel1{
+    margin-top: 65px;
+}
+.category .card-body{
+    padding: 2%!important;
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    max-height: 5em;
+    font-weight: 500;
+}
+
+.category .btn-danger{
+    border-radius: 0%!important;
+    color: white;
+    font-weight: 500;
+    letter-spacing: .15em;
+}
+.category .card-img-top{
+    height: 80%;
+    width: 100%;
+}

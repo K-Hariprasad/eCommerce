@@ -1,0 +1,30 @@
+.pdt-desc .brand{
+    color: #282c3f;
+    padding: 0 20px 0 0;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1;
+}
+.pdt-desc .desc{
+    color: #535665;
+    padding: 5px 15px 0 0;
+    font-size: 20px;
+    opacity: .8;
+    font-weight: 400;
+}
+.pdt-desc .price{
+    color: #282c3f;
+    font-weight: 500;
+}
+.pdt-desc .tax{
+    color: #03a685;
+    font-weight: 500;
+    font-size: 14px;
+    display: block;
+    margin: 5px 10px 10px 0;
+}
+.pdt-desc .sizedrop{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}

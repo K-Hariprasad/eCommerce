@@ -1,0 +1,32 @@
+.pdt-title{
+    margin-top: 80px;
+    padding: 3%;
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px;
+    max-height: 5em;
+    font-weight: 500;
+}
+.pdt-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pdt-price{
+    font-size: 20px;
+    font-weight: 500;
+    color: red;
+}
+.btn-danger{
+    border-radius: 0%!important;
+    color: white;
+    font-weight: 500;
+    letter-spacing: .15em;
+}
+.card-body {
+    padding-top: 0.5rem!important;
+    padding-bottom: 0!important;
+
+}

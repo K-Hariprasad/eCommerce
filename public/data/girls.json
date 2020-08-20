@@ -1,0 +1,30 @@
+[
+    {
+		"productId": 1,
+		"Brand": "YK",
+		"productCode": "KB-1",
+		"description": "Girls Grey & Black Colourblocked Fit and Flare Layered Dress",
+		"price": 1299,
+        "imageUrl1": "../images/k6.jpg",
+		"imageUrl2": "../images/han-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "Stylo Bug",
+		"productCode": "KB-2",
+		"description": "Girls & Navy Blue Peach-Coloured Printed Fit and Flare Dress",
+		"price": 1899,
+        "imageUrl1": "../images/k5.jpg",
+		"imageUrl2": "../images/indo-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "Bella Moda",
+		"productCode": "KB-3",
+		"description": "Girls Navy Blue Floral Print A-Line Dress",
+		"price": 799,
+        "imageUrl1": "../images/k4.jpg",
+		"imageUrl2": "../images/Janasya-big.jpg"
+	}
+
+]
