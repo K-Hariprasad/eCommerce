@@ -1,0 +1,48 @@
+[
+    {
+		"productId": 1,
+		"Brand": "HRX",
+		"productCode": "TS-1",
+		"description": "Men Yellow Printed Round Neck T-Shirt",
+		"price": 699,
+        "imageUrl1": "../images/hrx-small.jpg",
+		"imageUrl2": "../images/hrx-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "HERE&NOW",
+		"productCode": "TS-2",
+		"description": "Men Teal Blue & Black Printed Round Neck T-shirt",
+		"price": 599,
+        "imageUrl1": "../images/hn-small.jpg",
+		"imageUrl2": "../images/hn-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "Roadster",
+		"productCode": "TS-3",
+		"description": "Men Olive Green Camouflage Round Neck T-shirt",
+		"price": 599,
+        "imageUrl1": "../images/roadster-small.jpg",
+		"imageUrl2": "../images/roadster-big.jpg"
+	},
+	{
+		"productId": 4,
+		"Brand": "WROGN",
+		"productCode": "TS-4",
+		"description": "Men White & Black Printed Slim Fit Round Neck T-shirt",
+		"price": 539,
+        "imageUrl1": "../images/wrogn-small.jpg",
+		"imageUrl2": "../images/wrogn-big.jpg"
+	},
+	{
+		"productId": 5,
+		"Brand": "PUMA",
+		"productCode": "TS-5",
+		"description": "Men Black Printed Logo Split Round Neck T-shirt",
+		"price": 779,
+        "imageUrl1": "../images/puma-small.jpg",
+		"imageUrl2": "../images/puma-big.jpg"
+	}
+
+]

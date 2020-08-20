@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/eCommerce/static/css/main.0f74e95d.chunk.css",
+    "main.js": "/eCommerce/static/js/main.85a9d1aa.chunk.js",
+    "main.js.map": "/eCommerce/static/js/main.85a9d1aa.chunk.js.map",
+    "runtime-main.js": "/eCommerce/static/js/runtime-main.cb38feba.js",
+    "runtime-main.js.map": "/eCommerce/static/js/runtime-main.cb38feba.js.map",
+    "static/js/2.5f2ce6ec.chunk.js": "/eCommerce/static/js/2.5f2ce6ec.chunk.js",
+    "static/js/2.5f2ce6ec.chunk.js.map": "/eCommerce/static/js/2.5f2ce6ec.chunk.js.map",
+    "index.html": "/eCommerce/index.html",
+    "precache-manifest.6c448ed8b874fc5296d5574c0c1b1568.js": "/eCommerce/precache-manifest.6c448ed8b874fc5296d5574c0c1b1568.js",
+    "service-worker.js": "/eCommerce/service-worker.js",
+    "static/css/main.0f74e95d.chunk.css.map": "/eCommerce/static/css/main.0f74e95d.chunk.css.map",
+    "static/js/2.5f2ce6ec.chunk.js.LICENSE.txt": "/eCommerce/static/js/2.5f2ce6ec.chunk.js.LICENSE.txt",
+    "static/media/c1.jpg": "/eCommerce/static/media/c1.f8b80a4c.jpg",
+    "static/media/c2.jpg": "/eCommerce/static/media/c2.b9256ec4.jpg",
+    "static/media/c3.jpg": "/eCommerce/static/media/c3.4954ae49.jpg",
+    "static/media/casualshoe.jpg": "/eCommerce/static/media/casualshoe.5001cf5b.jpg",
+    "static/media/fc.jpg": "/eCommerce/static/media/fc.84fe61f4.jpg",
+    "static/media/kurta.jpg": "/eCommerce/static/media/kurta.502bb549.jpg",
+    "static/media/shirt.jpg": "/eCommerce/static/media/shirt.d1aa76bb.jpg",
+    "static/media/t.jpg": "/eCommerce/static/media/t.f5de6505.jpg",
+    "static/media/top.jpg": "/eCommerce/static/media/top.059c9304.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb38feba.js",
+    "static/js/2.5f2ce6ec.chunk.js",
+    "static/css/main.0f74e95d.chunk.css",
+    "static/js/main.85a9d1aa.chunk.js"
+  ]
+}

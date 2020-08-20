@@ -1,0 +1,48 @@
+[
+    {
+		"productId": 1,
+		"Brand": "ADIDAS Originals",
+		"productCode": "CSS-1",
+		"description": "Men Black & White Swift Run Woven Design Sneakers   ",
+		"price": 5439,
+        "imageUrl1": "../images/as.jpg",
+		"imageUrl2": "../images/hrx-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "Mast & Harbour",
+		"productCode": "CSS-2",
+		"description": "Men Grey Solid Sneakers",
+		"price": 1499,
+        "imageUrl1": "../images/mas.jpg",
+		"imageUrl2": "../images/hn-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "Roadster",
+		"productCode": "CSS-3",
+		"description": "Men Blue Sneakers",
+		"price": 1899,
+        "imageUrl1": "../images/road.jpg",
+		"imageUrl2": "../images/roadster-big.jpg"
+	},
+	{
+		"productId": 4,
+		"Brand": "Puma",
+		"productCode": "CSS-4",
+		"description": "Men Navy Blue & Red Escaper Star IDP Sneakers",
+		"price": 1949,
+        "imageUrl1": "../images/pumas.jpg",
+		"imageUrl2": "../images/wrogn-big.jpg"
+	},
+	{
+		"productId": 5,
+		"Brand": "LOCOMOTIVE",
+		"productCode": "CSS-5",
+		"description": "Men White Sneakers",
+		"price": 1779,
+        "imageUrl1": "../images/locos.jpg",
+		"imageUrl2": "../images/puma-big.jpg"
+	}
+
+]

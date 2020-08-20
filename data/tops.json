@@ -1,0 +1,48 @@
+[
+    {
+		"productId": 1,
+		"Brand": "HERE&NOW",
+		"productCode": "TS-1",
+		"description": "Women Navy Blue Floral Embroidered Top",
+		"price": 1399,
+        "imageUrl1": "../images/he.jpg",
+		"imageUrl2": "../images/han-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "Vero Moda",
+		"productCode": "TS-2",
+		"description": "Women Off-White Printed Round Neck T-shirt",
+		"price": 899,
+        "imageUrl1": "../images/ver.jpg",
+		"imageUrl2": "../images/indo-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "H&M",
+		"productCode": "TS-3",
+		"description": "Women Off-White Printed Blouson Top",
+		"price": 1199,
+        "imageUrl1": "../images/gh.jpg",
+		"imageUrl2": "../images/Janasya-big.jpg"
+	},
+	{
+		"productId": 4,
+		"Brand": "Vishudh",
+		"productCode": "TS-4",
+		"description": "Women Olive Green Solid Boat Neck T-shirt",
+		"price": 949,
+        "imageUrl1": "../images/roa.jpg",
+		"imageUrl2": "../images/visudh-big.jpg"
+	},
+	{
+		"productId": 5,
+		"Brand": "Style Quotient",
+		"productCode": "TS-5",
+		"description": "Women Black Polka Dot Print Top",
+		"price": 779,
+        "imageUrl1": "../images/ff.jpg",
+		"imageUrl2": "../images/libas-big"
+	}
+
+]

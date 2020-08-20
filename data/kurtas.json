@@ -1,0 +1,48 @@
+[
+    {
+		"productId": 1,
+		"Brand": "HERE&NOW",
+		"productCode": "K-1",
+		"description": "Women Teal & Green Printed A-Line Kurta",
+		"price": 999,
+        "imageUrl1": "../images/han-small.jpg",
+		"imageUrl2": "../images/han-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "Indo Era",
+		"productCode": "K-2",
+		"description": "Women Beige & Pink Yoke Design Kurta with Palazzos & Dupatta",
+		"price": 1599,
+        "imageUrl1": "../images/indo-small.jpg",
+		"imageUrl2": "../images/indo-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "Janasya",
+		"productCode": "K-3",
+		"description": "Women Teal Blue & Printed Kurta with Trousers & Dupatta",
+		"price": 1199,
+        "imageUrl1": "../images/Janasya-small.jpg",
+		"imageUrl2": "../images/Janasya-big.jpg"
+	},
+	{
+		"productId": 4,
+		"Brand": "Vishudh",
+		"productCode": "K-4",
+		"description": "Women Navy Blue Printed A-Line Kurta",
+		"price": 539,
+        "imageUrl1": "../images/visudh-small.jpg",
+		"imageUrl2": "../images/visudh-big.jpg"
+	},
+	{
+		"productId": 5,
+		"Brand": "Libas",
+		"productCode": "K-5",
+		"description": "Women Maroon Woven Design Pathani Kurta",
+		"price": 779,
+        "imageUrl1": "../images/libas.jpg",
+		"imageUrl2": "../images/libas-big"
+	}
+
+]

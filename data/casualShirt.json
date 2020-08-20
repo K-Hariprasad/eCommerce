@@ -1,0 +1,48 @@
+[
+    {
+		"productId": 1,
+		"Brand": "U C B",
+		"productCode": "CS-1",
+		"description": "Men Black & Pink Regular Fit Printed Casual Shirt",
+		"price": 1439,
+        "imageUrl1": "../images/uc.jpg",
+		"imageUrl2": "../images/hrx-big.jpg"
+    },
+    {
+		"productId": 2,
+		"Brand": "HIGHLANDER",
+		"productCode": "CS-2",
+		"description": "Highlander Olive Green Slim Fit Casual Shirt",
+		"price": 499,
+        "imageUrl1": "../images/high.jpg",
+		"imageUrl2": "../images/hn-big.jpg"
+    },
+    {
+		"productId": 3,
+		"Brand": "WROGN",
+		"productCode": "CS-3",
+		"description": "Men Green Slim Fit Solid Casual Shirt",
+		"price": 1599,
+        "imageUrl1": "../images/wr.jpg",
+		"imageUrl2": "../images/roadster-big.jpg"
+	},
+	{
+		"productId": 4,
+		"Brand": "Mast & Harbour",
+		"productCode": "CS-4",
+		"description": "Men White & Red Regular Fit Striped Casual Shirt",
+		"price": 1339,
+        "imageUrl1": "../images/MH.jpg",
+		"imageUrl2": "../images/wrogn-big.jpg"
+	},
+	{
+		"productId": 5,
+		"Brand": "LOCOMOTIVE",
+		"productCode": "CS-5",
+		"description": "Men Blue Slim Fit Faded Casual Shirt",
+		"price": 779,
+        "imageUrl1": "../images/loco.jpg",
+		"imageUrl2": "../images/puma-big.jpg"
+	}
+
+]
